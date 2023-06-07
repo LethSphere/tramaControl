@@ -1,6 +1,6 @@
 {
   "name": "trama-program",
-  "homepage": "https://github.com/LethSphere/tramaControl",
+  "homepage": "https://lethsphere.github.io/tramaControl/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
