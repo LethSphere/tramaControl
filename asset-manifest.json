@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tramaControl/static/css/main.120a84c4.css",
+    "main.js": "/tramaControl/static/js/main.8b861fd0.js",
+    "static/js/787.6f651708.chunk.js": "/tramaControl/static/js/787.6f651708.chunk.js",
+    "index.html": "/tramaControl/index.html",
+    "main.120a84c4.css.map": "/tramaControl/static/css/main.120a84c4.css.map",
+    "main.8b861fd0.js.map": "/tramaControl/static/js/main.8b861fd0.js.map",
+    "787.6f651708.chunk.js.map": "/tramaControl/static/js/787.6f651708.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.120a84c4.css",
+    "static/js/main.8b861fd0.js"
+  ]
+}
